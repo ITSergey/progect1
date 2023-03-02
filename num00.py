@@ -1,7 +1,9 @@
 #new comment code
 
-f = open('/home/asd/Рабочий стол/Web/24_1.txt')
+f = open('/home/asd/Рабочий стол/Web/new.txt')
+
 s = f.readline()
+
 f.close
 
 l = lmax = 1
