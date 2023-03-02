@@ -1,3 +1,4 @@
+#add comment
 f = open('/home/asd/Рабочий стол/Web/24_1.txt')
 s = f.readline()
 f.close
