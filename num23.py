@@ -1,3 +1,4 @@
+#Help new
 def F(curr, end):
     if curr > end or curr == 29: return 0
     if curr == end: return 1
