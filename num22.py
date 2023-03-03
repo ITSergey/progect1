@@ -1,4 +1,4 @@
-#add comment
+#add comment 123
 f = open('/home/asd/Рабочий стол/Web/24_1.txt')
 s = f.readline()
 f.close
@@ -12,4 +12,4 @@ for i in range(len(s)-1):
     else:
         l = 1
 print(lmax)
-
+#end
